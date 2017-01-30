@@ -1,0 +1,23 @@
+
+body{
+    font-size:14px;
+}
+p{
+    font-family: Arial;}
+
+.spalva{
+    display:inline;
+    background-color:black;}
+
+#raudonas{
+    color:red;
+    background-color:antiquewhite;
+}
+#rausvas{
+    color:deeppink;
+}
+#zalias{
+    color:green;
+}
+
+
